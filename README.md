@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PyDeverLEMO
+- 👀 I’m interested in Full-End Development
+- 🌱 I’m currently learning Python, HTML and CSS
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me: (don't reach me :) )
